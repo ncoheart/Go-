@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="go build src/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+    <module name="src" />
+    <working_directory value="$PROJECT_DIR$/5-工程管理/0502_不同级别多文件" />
+    <kind value="DIRECTORY" />
+    <filePath value="$PROJECT_DIR$/5-工程管理/不同级别多文件/src/main.go" />
+    <directory value="$PROJECT_DIR$/5-工程管理/0502_不同级别多文件/src" />
+    <method v="2" />
+  </configuration>
+</component>
